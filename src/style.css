@@ -1,0 +1,17 @@
+/* Styling the scrollbar for all browsers */
+.custom-scrollbar::-webkit-scrollbar {
+  width: 4px; /* Very thin */
+}
+
+.custom-scrollbar::-webkit-scrollbar-track {
+  background: transparent; /* Makes the track invisible */
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb {
+  background: #bd93a8; /* Your plum color */
+  border-radius: 10px;
+}
+
+.custom-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #6B3B54; /* Darker plum on hover */
+}
