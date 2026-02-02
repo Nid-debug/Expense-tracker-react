@@ -3,6 +3,9 @@
 A simple expense tracker built using React fundamentals.  
 This project focuses on clean state management, component structure, and basic UI/UX principles.
 
+🔗 Live Demo: https://expensetrackerreact-self.vercel.app/  
+🔗 GitHub Repo: https://github.com/Nid-debug/Expense-tracker-react
+
 ## 🚀 Features
 - Add expenses with title and amount
 - Delete expenses
@@ -32,7 +35,7 @@ This project focuses on clean state management, component structure, and basic U
 ![Empty State](screenshots/home.png)
 
 ### With Expenses
-![With Expenses](screenshots/list.png)
+![With Expenses](screenshots/list.png)``
 
 ## 🧪 Getting Started
 ```bash
