@@ -35,7 +35,7 @@ This project focuses on clean state management, component structure, and basic U
 ![Empty State](screenshots/home.png)
 
 ### With Expenses
-![With Expenses](screenshots/list.png)``
+![With Expenses](screenshots/list.png)
 
 ## 🧪 Getting Started
 ```bash
